@@ -30,5 +30,7 @@ public class C01_LinkedList {
         Deque<String> Linked4 = new LinkedList<>();
 
 
+
+
     }
 }
